@@ -1,2 +1,1 @@
-# ITT310-Projects
-School project
+This project was for educational purposes.
